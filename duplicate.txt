@@ -1,0 +1,21 @@
+suppose there is a cloume of numeric values like following 
+1
+2
+3
+3
+3
+4
+4
+4
+5
+6
+ i want the outpute 
+3
+4
+
+uniq -d file name 
+ 
+if the file not sorted run the command 
+sort file name | uniq -d 
+
+  thise will print duplicates only 
