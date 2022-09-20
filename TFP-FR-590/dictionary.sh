@@ -1,4 +1,4 @@
-eclare -A myDictionary
+declare -A myDictionary
 Dictionary[Name]="XYZ"
 myDictionary[Age]=23
 myDictionary[Gender]="M"
