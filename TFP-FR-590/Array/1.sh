@@ -30,4 +30,4 @@ do
    then
      second_smallest=${random_numbers[i]}
    fi
-
+done
